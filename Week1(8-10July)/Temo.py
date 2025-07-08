@@ -1,1 +1,0 @@
-print("Mahaku is the best thing in my life...")
